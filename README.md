@@ -1,5 +1,4 @@
 ![alt text](/INFO/Logo.png)
-# WildEye
 Animal Detection and Classification using YOLO.
 
 You can try the demo [here](https://shreehari-revankar.github.io/WildEye/).
